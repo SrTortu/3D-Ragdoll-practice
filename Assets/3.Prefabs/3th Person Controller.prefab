@@ -222,6 +222,7 @@ MonoBehaviour:
   jump: 0
   crouch: 0
   sprint: 0
+  movement: 0
   analogMovement: 0
   cursorLocked: 1
   cursorInputForLook: 1
